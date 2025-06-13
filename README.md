@@ -1,8 +1,8 @@
 ## Hi there 👋
 - 🇮🇹 I'm from Italy
-- 🤔 BA Degree in communication at [Tor Vergata] (https://www-2020.comunicazione.lettere.uniroma2.it/)
+- 🤔 BA Degree in communication at [Tor Vergata](https://www-2020.comunicazione.lettere.uniroma2.it/)
 - 🤔 MA Degree in International relationship and sovrannational structures [Sapienza](https://corsidilaurea.uniroma1.it/it/solr-offerta-formativa-t?f%5B0%5D=field_classe_di_corso:2136)
-- 🔭 I’m working with [0x7183](https://github.com/0x7183) at his company [BIG Labs] (https://www.biglabs.eu/)
+- 🔭 I’m working with [0x7183](https://github.com/0x7183) at his company [BIG Labs](https://www.biglabs.eu/)
 - 🌱 I’m learning about Blockchain, Typescript and Excell
 - 📫 How to reach me: [Formione](formione) on Discord.
   
